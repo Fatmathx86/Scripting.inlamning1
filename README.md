@@ -1,8 +1,8 @@
 # Scripting.inlamning1
 
 Strukturverktyg.ps1 är ett funktionsprogram som skapar en mappstruktur som användaren väljer namn till. Om mappen redan finns anges felmeddelande.
-Inuti huvudmappen skapas sedan 3 undermappar: logs, scrips och temp.
-I mappen "logs" skapas en textfil som innehåller uppgifter om när mappstrukturen skapades i ett bestämt format.
+Inuti huvudmappen skapas sedan 3 undermappar: logs, scripts och temp.
+I mappen "logs" skapas en textfil som innehåller uppgifter om när mappstrukturen skapades.
 
 Filformatet är .ps1 och är en vanlig textfil som innehåller ett eller flera PowerShell-kommandon.
 Skriptet är gjort för PowerShell, skriven i Visual Studio Code. 
